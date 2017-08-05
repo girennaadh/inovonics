@@ -1,0 +1,14 @@
+To clone the repo--
+git clone <url>
+
+Once we make the changes to the code
+git add --all
+
+To commi the changes.
+git commit -m ""
+
+to push the changes.
+git push -u origin branchname
+
+to the latest code
+git pull 
